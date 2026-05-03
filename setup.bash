@@ -12,8 +12,6 @@ echo "============================================"
 
 # ── 1. Clone the project repository ──────────────────────────
 REPO_URL="https://github.com/Ishan-Pandit/gnr638-project.git"
-# Replace YOUR_GITHUB_USERNAME with your actual GitHub username before submission.
-# Make sure the repository is PUBLIC before 03rd May 2026 11:00 AM.
 
 if [ -d "gnr638-project" ]; then
     echo "[INFO] Repo already cloned, pulling latest..."
