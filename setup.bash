@@ -11,7 +11,7 @@ echo " GNR638 Project Setup"
 echo "============================================"
 
 # ── 1. Clone the project repository ──────────────────────────
-REPO_URL="https://github.com/YOUR_GITHUB_USERNAME/gnr638-project.git"
+REPO_URL="https://github.com/Ishan-Pandit/gnr638-project.git"
 # Replace YOUR_GITHUB_USERNAME with your actual GitHub username before submission.
 # Make sure the repository is PUBLIC before 03rd May 2026 11:00 AM.
 
